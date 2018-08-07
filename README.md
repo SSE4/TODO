@@ -2,6 +2,7 @@
 my public TODO list
 
 - weird protobuf issue on OSX
+- SFML OSX dependencies
 - MSYS boost python issue
 - glibc version header and 32-bit architectures
 - conan strict credibility feature
