@@ -9,5 +9,5 @@ my public TODO list
 - package SDL mixer and dependencies
 - package SQL libraries and bindings
 - Visual Studio add-on for conan
-- python module to query executable information (.EXE/PE, Mach-O, ELF, etc)
+- python module to query executable information (.EXE/PE, Mach-O, ELF, etc) -> conan binary linter
 - iOS toolchain for CMake
