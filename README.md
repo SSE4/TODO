@@ -13,4 +13,6 @@ my public TODO list
 - docker file for Visual Studio under wine
 - Visual Studio add-on for conan
 - python module to query executable information (.EXE/PE, Mach-O, ELF, etc) -> conan binary linter
+- Emscripten installer
+- Raspberry Pi toolchain installer
 - iOS toolchain for CMake
