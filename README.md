@@ -9,6 +9,7 @@ my public TODO list
 - wt (C++ Web Toolkit) OpenSSL problem
 - package SDL mixer and dependencies
 - package SQL libraries and bindings
+- docker files for Visual Studio build tools (2015/2017)
 - docker file for Visual Studio under wine
 - Visual Studio add-on for conan
 - python module to query executable information (.EXE/PE, Mach-O, ELF, etc) -> conan binary linter
