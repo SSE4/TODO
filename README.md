@@ -9,6 +9,7 @@ my public TODO list
 - wt (C++ Web Toolkit) OpenSSL problem
 - package SDL mixer and dependencies
 - package SQL libraries and bindings
+- ffmpeg dependencies: +libaom, +theora
 - docker files for Visual Studio build tools (2015/2017)
 - docker file for Visual Studio under wine
 - Visual Studio add-on for conan
